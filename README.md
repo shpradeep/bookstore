@@ -1,9 +1,4 @@
 # BOOKSTORE
-> Simple e-commerce of books
-
-#
-
-> View [video demo project](https://youtu.be/rstvLyTOW-0)
 
 ## Made with
 - [php >= 7.3](https://www.php.net/)
