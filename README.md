@@ -7,11 +7,9 @@
 
 ## Features
 - Admin Panel (Users, Roles, Plans, Authors, Books)
-- User Wallet (user can buy credits)
 - User Library
 
 ## Installation
-- Check for requirements [laravel](https://laravel.com/docs/8.x/installation#server-requirements)
 
 ```git
 # Clone this repository in your root folder
